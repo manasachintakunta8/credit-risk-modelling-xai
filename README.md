@@ -3,7 +3,6 @@
 An 11-week project building a production-grade credit risk modelling pipeline with explainable AI techniques.
 
 ## Project Structure
-git status
  ## Datasets
 
 Three benchmark datasets:
